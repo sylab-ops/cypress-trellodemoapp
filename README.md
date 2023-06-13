@@ -1,5 +1,5 @@
 # trellodemoapp
-a simple trello clone application built on vue and json-server. The point of this app is to be super easy to install and run, so that you don’t need to set up complicated database and have several scripts running in order to open app. 
+A simple trello clone application built on vue and json-server. The point of this app is to be super easy to install and run, so that you don’t need to set up complicated database and have several scripts running in order to open app. 
 
 The original version of this app was built by Zack Thoutt and updated Filip Hric, you can find it here https://github.com/filiphric/trelloapp
 
