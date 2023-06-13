@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a simple trello clone application built on vue and json-server. The point of this app is to be super easy to install and run, so that you don’t need to set up complicated database and have several scripts running in order to open app. Just install, write npm start and you are good to go.
 
 The original version of this app was built by Zack Thoutt and [you can find it here](https://github.com/zackthoutt/vue-trello). I updated the app to vue 2 and am using json-server and axios instead of local storage to handle data. I also implemented a simple JWT authentication by utilizing json-server-auth. You can also upload images to tasks, files are saved to your drive. 
@@ -11,3 +12,15 @@ Oh and the installation
 That should do it. If you update the code, use `npx grunt dev` to build the app again.
 
 I’ll do a better readme file, I swear. I’m just a little busy now.
+=======
+# trellodemoapp
+A simple trello clone application built on vue and json-server. The point of this app is to be super easy to install and run, so that you don’t need to set up complicated database and have several scripts running in order to open app. 
+
+The original version of this app was built by Zack Thoutt and updated Filip Hric, you can find it here https://github.com/filiphric/trelloapp
+
+How to execute the project?
+- npm install 
+- npm start
+
+That should do it. If you update the code, use npx grunt dev to build the app again.
+>>>>>>> 61fd4c32e60bbaf0b7fb9cd0f17d8e5ee3c653a4
